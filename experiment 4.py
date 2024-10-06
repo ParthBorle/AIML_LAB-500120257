@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # Path to the CSV file
-file_path = 'D:\computer class\prop\AIML_LAB\database.csv'  # Modify this to the correct file path if needed
+file_path = 'D:\computer class\prop\AIML_LAB\databasee.csv'  # Modify this to the correct file path if needed
 
 # Check if the file exists before proceeding
 if os.path.exists(file_path):
